@@ -1,0 +1,19 @@
+A Hierarchical Diffusion Model Analysis of the Approximate Number System
+
+Mark Andrews & Chloe Wider
+
+The Approximate Number System (ANS) is the cognitive system that underlies our
+ability to nonverbally estimate and represent numerical quantities. A typical
+task used to measure an individual's ANS acuity involves the presentation of
+two random displays of dots and then the individual choosing whichever display
+has the larger number of dots. ANS acuity is then quantified in terms of a
+Weber fraction that gives the minimum difference in the numbers of dots in the
+two displays that is noticeable by that individual. The Weber fraction is
+calculated solely on the basis of the individual's accuracy. However, the ANS
+task is a paradigm example of a two alternative forced choice task, and it is
+well establised that in these tasks speed of response may be traded off for
+increased accuracy and vice versa. It is arguable therefore than an improved
+measure of ANS acuity can be obtained by modelling individuals' performance
+using sequential sampling model, which have been well established as accurate
+models of speeded decision making. In this study, we analyse performance on the
+ANS task using a Hierarchical (multilevel) drift diffusion model. 
