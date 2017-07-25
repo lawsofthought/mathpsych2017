@@ -93,7 +93,7 @@ is obtained from the area under the curve of the difference of two Gaussians:
 $$
 \Prob{x_k > x_l} = \int_0^\infty N\left(n_k - n_l, \omega_j \cdot (n_k^2 + n_l^2)\right).
 $$
-- Here, $\omega_j$ is the \textsc{ans} acuity of subject $j$, referred to as the *Weber fraction* (the larger $\omega_j$, the narrower the Gaussians of the mental number line, and so the better their ability to distinguish between different set sizes). 
+- Here, $\omega_j$ is the \textsc{ans} acuity of subject $j$, referred to as the *Weber fraction* (the smaller $\omega_j$, the narrower the Gaussians of the mental number line, and so the better their ability to distinguish between different set sizes). 
 - Crucially, $\omega_j$ is estimated solely on the basis of the subject's classification accuracy.
 
 ## \textsc{ans} acuity as speeded decision making
