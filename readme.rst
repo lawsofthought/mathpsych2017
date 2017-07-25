@@ -5,7 +5,8 @@ University of Warwick, July 22-25.
 The talk is about analysing the Approximate Number System (ANS) using a
 hierarchical drift diffusion model.
 
-## Licence 
+Licence 
+-------
 
 The code here is distributed according to GPL 3. The documents are distributed
 according to Creative Commons Attribution-ShareAlike 4.0 International Public
