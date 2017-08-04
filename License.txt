@@ -4,7 +4,7 @@ This project contains code and text. The code is distributed according to GPL 3,
 documents are distributed according to Creative Commons Attribution-ShareAlike
 4.0 International Public License, see below.  
 
-License for code
+Licence for code
 ----------------
 
 The code in this project is free software: you can redistribute it and/or
@@ -19,7 +19,7 @@ PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 A copy of the GNU General Public License is provided here the text file
 `gpl-3.0.txt`, and is also available from <http://www.gnu.org/licenses/>.
 
-License for text
+Licence for text
 ----------------
 
 The documents in this project are distributed according to Creative Commons
